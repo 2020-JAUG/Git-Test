@@ -35,7 +35,7 @@ Under line 2
 - [This is a link to index](index.html)
 
 # Images
-![GitHub Logo](https://ourcodeworld.com/public-media/articles/articleocw-5755472112ab3.jpg)
+![GitHub Logo](https://github.com/2020-JAUG/website-grid/blob/master/img/faviconYellow.png?raw=true)
 
 # Snippets
 Code in json
