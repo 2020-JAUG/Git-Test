@@ -1,3 +1,6 @@
+# Version
+Version v1.2.2
+
 # Headers
 # Header H1
 ## Header H2
